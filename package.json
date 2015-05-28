@@ -1,5 +1,5 @@
 {
-  "name": "stream-buffers",
+  "name": "@marsaud/stream-buffers",
   "version": "2.1.0",
   "description": "Buffer-backed Streams for reading and writing.",
   "keywords": [
@@ -20,7 +20,7 @@
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samcday/node-stream-buffer.git"
+    "utl": "https://github.com/marsaud/node-stream-buffer.git"
   },
   "scripts": {
     "test": "[ -n \"$NO_COVERAGE\" ] && vows --spec || istanbul cover vows -- --spec"
